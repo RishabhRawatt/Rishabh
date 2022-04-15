@@ -23,6 +23,8 @@ Tetris is created by russian Developer "Alexey Pajitnov"
     
 ## Demo
 
-![2dgame0000](https://user-images.githubusercontent.com/63269542/163568392-336aa236-817c-4590-92f0-f17f58bc7f21.gif)
+https://user-images.githubusercontent.com/63269542/163568546-69fcf86c-8507-4e74-bb79-b81f5269208a.mp4
+
+
 
 
